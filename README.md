@@ -1,4 +1,5 @@
-# weekend_hwk_movie
+# IMDB 2.0
+CSS aside, just as good as the original site...
 
 ## Project setup
 ```
